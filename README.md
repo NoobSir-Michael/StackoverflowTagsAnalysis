@@ -1,4 +1,4 @@
-这个项目是通过wget爬取stackoverflow标签列表, 按照其热度顺序进行排序
+这个项目是通过wget爬取stackoverflow标签列表, 按照其热度顺序进行排序 (采样时间: 2022/5/1)
 保留原始网页文件, 方便后续研究
 
 获取了 `tagName,info,totalQuestion,questionToday,questionPrevious` 这几个字段
